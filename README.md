@@ -27,6 +27,16 @@ export default {
 }
 </script>
 ```
+### main.ts
+```js
+import { createApp } from 'vue';
+import App from './App.vue';
+import LongPress from 'vue3-directive-long-press';
+
+createApp(App)
+  .use(LongPress)
+  .mount('#app');
+```
 
 # License
 
