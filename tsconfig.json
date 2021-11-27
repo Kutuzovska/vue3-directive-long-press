@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    "composite": true,
+    "allowJs": false,
+    "checkJs": false,
+    "outDir": "./dist",
+    "removeComments": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  },
+}
