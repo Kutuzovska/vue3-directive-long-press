@@ -11,7 +11,7 @@ Detected long press
     npm install vue3-directive-long-press
 
 # Usage
-
+### App.vue
 ```html
 <template>
   <input v-long-press="longPress" />
